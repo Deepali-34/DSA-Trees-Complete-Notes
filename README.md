@@ -16,32 +16,7 @@ This repository covers fundamental tree concepts, different types of trees, trav
 | 06 | Red-Black Trees | Properties, recoloring, insertion, deletion |
 | 07 | B+ Trees | Searching, insertion, splitting, deletion, borrowing |
 
-## 📂 Repository Structure
 
-```text
-DSA-Trees-Complete-Notes/
-│
-├── Notes/
-│   └── Trees_DSA.pdf
-│
-├── Topics/
-│   ├── 01-Tree-Fundamentals.md
-│   ├── 02-Binary-Trees.md
-│   ├── 03-Tree-Traversals.md
-│   ├── 04-Binary-Search-Trees.md
-│   ├── 05-AVL-Trees.md
-│   ├── 06-Red-Black-Trees.md
-│   └── 07-BPlus-Trees.md
-│
-├── Images/
-│   └── tree-diagrams/
-│
-├── Practice/
-│   └── Practice-Problems.md
-│
-├── README.md
-└── LICENSE
-```
 
 ## 🎯 Learning Objectives
 
